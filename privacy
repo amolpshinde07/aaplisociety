@@ -1,9 +1,11 @@
-AapliSocietyApp needs following permissions
+AapliSociety App needs following permissions
 
-ACCESS_NETWORK_STATE, 
-GET_ACCOUNTS, 
-GET_ACCOUNTS_PRIVILEGED, 
-INTERNET, 
-READ_EXTERNAL_STORAGE, 
-REQUEST_INSTALL_PACKAGES, 
-WRITE_EXTERNAL_STORAGE
+ACCESS_NETWORK_STATE - To Check whether network is working or not
+GET_ACCOUNTS - To identify account registered with AapliSociety.in
+GET_ACCOUNTS_PRIVILEGED - To identify account registered with AapliSociety.in
+INTERNET - To communicate with server i.e. AapliSociety.in
+READ_EXTERNAL_STORAGE - To read stored data related to App
+REQUEST_INSTALL_PACKAGES - To install AapliSociety App
+WRITE_EXTERNAL_STORAGE - To write data related to App
+
+AapliSociety never stores or shares data of user with anyone.
