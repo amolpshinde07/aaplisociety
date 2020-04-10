@@ -1,1 +1,9 @@
-AapliSocietyApp read accounts from devices.
+AapliSocietyApp needs following permissions
+
+ACCESS_NETWORK_STATE, 
+GET_ACCOUNTS, 
+GET_ACCOUNTS_PRIVILEGED, 
+INTERNET, 
+READ_EXTERNAL_STORAGE, 
+REQUEST_INSTALL_PACKAGES, 
+WRITE_EXTERNAL_STORAGE
